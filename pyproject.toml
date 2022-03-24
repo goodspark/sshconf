@@ -1,6 +1,6 @@
 [project]
 name = "sshconf"
-version = "0.1.0"
+version = "0.2.4"
 description = "Lightweight SSH config library"
 authors = [
     {name = "Søren A D", email = "sorend@acm.org"},
